@@ -1,6 +1,6 @@
 # ki-67-patches-dataset-segmentation-using-unet
 
-This project was developed during an internship at NETR AI PVT. LTD., Indian Institute of Technology (IIT), Bhilai.
+This project was developed during my internship at NETR AI PVT. LTD., Indian Institute of Technology (IIT), Bhilai.
 
 ## Table of Contents
 
