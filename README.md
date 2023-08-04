@@ -10,7 +10,7 @@ This project was developed during my internship at NETR AI PVT. LTD., Indian Ins
 - [Usage](#usage)
 - [Result](#result)
 
-## Introduction
+## Overview
 
 This project aims to perform image segmentation using the U-Net architecture, a powerful deep learning model for image segmentation tasks. The dataset used in this project is the Ki-67 Patches dataset, which consists of high-resolution images of cell nuclei labeled with Ki-67, a protein associated with cell proliferation.
 U-Net is well-suited for image segmentation due to its encoder-decoder design, enabling it to capture both high-level and low-level features in images. This makes it particularly effective for tasks such as cell segmentation in medical images. 
